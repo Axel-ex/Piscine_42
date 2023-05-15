@@ -24,7 +24,7 @@
 	url = git@vogsphere.42porto.com:vogsphere/intra-uuid-7145dbee-fb0f-43cd-8a3a-cb16c35faecf-4690011-achabrer
 [submodule "C00"]
 	path = C00
-	url = git@vogsphere.42porto.com:vogsphere/intra-uuid-49b4ba4c-2182-4bc5-a29d-5dea097e698f-4666431-achabrer
+	url = ./C00
 [submodule "C09"]
 	path = C09
 	url = git@vogsphere.42porto.com:vogsphere/intra-uuid-306dcd2f-9e3b-42c5-944d-1254538edf81-4711826-achabrer
